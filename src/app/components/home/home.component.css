@@ -1,0 +1,28 @@
+/* Insertar estilos especificos del componente */
+
+.main-container {
+    margin: 10px;
+    ;
+}
+
+.botonF1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    right: 0;
+    bottom: 5%;
+    position: fixed;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    border: none;
+    outline: none;
+    font-size: 25px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    transition: .3s;
+}
+
+.botonF1 i {
+    right: 31%;
+    bottom: 27%;
+    position: absolute;
+}
